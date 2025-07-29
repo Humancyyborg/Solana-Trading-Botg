@@ -44,3 +44,9 @@ If these scripts have helped you, please consider supporting my work. Your suppo
 - 🚀 henrytirla.sol:   FJRDY392XSyfV9nFZC8SZij1hB3hsH121pCQi1KrvH6b
 
 
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
